@@ -1,0 +1,74 @@
+/* popularSlider */
+
+.popular-data {
+  cursor: pointer;
+  border: solid 1px var(--offBlack);
+  width: 90%;
+  margin: 0 auto;
+}
+
+/* genreCards*/
+
+.data-card {
+  width: 85%;
+  margin: 0 auto;
+  margin-top: -50px;
+  border: none !important;
+  border-left: 1px solid var(--offWhite) !important;
+  border-right: 1px solid var(--offWhite) !important;
+  border-bottom: 1px solid var(--offWhite) !important;
+  border-image: linear-gradient(to top, rgba(62, 59, 59, 0.203) 50%, rgba(0,0,0,0) 50%) !important; /* to top - at 50% transparent */
+  border-image-slice: 1 !important;
+}
+
+.title {
+  font-size: 1.5rem;
+}
+
+.feat-btn {
+  cursor: pointer;
+  background: var(--offBlack);
+  width: 12rem;
+  margin: 0 auto;
+}
+
+.popular-data .des {
+  height: 2.5rem;
+}
+
+/* brands */
+
+.slick-next:before {
+  color: var(--offBlack) !important;
+  font-size: 2rem !important;
+}
+
+.brand {
+ border: solid 1px var(--offBlack);
+ padding: 0 20px;
+ height: 7rem;
+}
+
+.brand-img {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.product-link:hover {
+  text-decoration: none;
+}
+
+
+@media only screen and (max-width: 922px) {
+  /* featuresCards*/
+
+  .data-card {
+    width: 100%;
+    margin: 0;
+    border: none !important;
+  }
+
+  .slick-next:before {
+    font-size: 1.5rem !important;
+  }
+}

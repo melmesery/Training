@@ -1,0 +1,14 @@
+/* to know */
+
+.features span {
+    font-size: 3rem;
+  }
+  
+  .features p {
+    font-size: 0.9rem;
+  }
+  
+  .features .middle {
+    border-left: solid var(--offBlack) 1px;
+    border-right: solid var(--offBlack) 1px;
+  }

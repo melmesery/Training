@@ -1,0 +1,50 @@
+/* login */
+
+.login-form {
+  width: 80%;
+  margin: 0 auto;
+  background: var(--offWhite);
+}
+
+.login-form input {
+  width: 100%;
+  padding: 0.6rem;
+  border: none !important;
+  outline: none !important;
+}
+
+.login-form button,
+.customers-btn,
+.sign-up-btn {
+  padding: 0.8rem;
+  background: var(--black);
+  color: var(--white);
+  outline: 0 !important;
+}
+
+.login-form a {
+  font-size: 0.8rem;
+}
+
+.customers-btn a {
+  text-decoration: none;
+}
+
+.sign-up span {
+  color: var(--green);
+}
+
+/* sign up */
+
+.form-input {
+  width: 100%;
+  padding: 0.6rem;
+  border: solid var(--offBlack) 1px;
+  outline: none;
+}
+
+@media only screen and (max-width: 922px) {
+  .login-form {
+    width: 100%;
+  }
+}

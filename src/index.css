@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue&display=swap');
+@import 'animate.css';
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+* {
+  font-family: 'Epilogue', sans-serif;
+}
+
+:root {
+  --offWhite: #f5f5f5;
+  --white: #fff;
+  --pink: #fc0f40;
+  --offBlack: rgba(0, 0, 0, 0.196);
+  --black: #000;
+  --gray: rgb(128, 128, 128);
+  --green: #55CC61;
+}
+
+a:hover {
+  text-decoration: underline;
+}

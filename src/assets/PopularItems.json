@@ -1,0 +1,67 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "product": "pop1",
+      "brand": "Hummel",
+      "des": "Hummel Valencia Shirt Women",
+      "priceAfter": "20.95",
+      "priceBefore": "16.95",
+      "image": "./images/pop1.webp"
+    },
+    {
+      "id": "2",
+      "product": "pop2",
+      "brand": "Mizuno",
+      "des": "Minzuno Wave Stealth Neo",
+      "priceAfter": "159.95",
+      "priceBefore": "119.0",
+      "image": "./images/pop2.webp"
+    },
+    {
+      "id": "3",
+      "product": "pop3",
+      "brand": "Mizuno",
+      "des": "Mizuno Elite Sock",
+      "priceAfter": "5.95",
+      "priceBefore": "3.95",
+      "image": "./images/pop3.webp"
+    },
+    {
+      "id": "4",
+      "product": "pop4",
+      "brand": "Hummel",
+      "des": "Hummel Authentic Shirt Women",
+      "priceAfter": "22.95",
+      "priceBefore": "19.95",
+      "image": "./images/pop4.webp"
+    },
+    {
+      "id": "5",
+      "product": "pop5",
+      "brand": "Nike",
+      "des": "Nike Court Victory Straight Skirt Women",
+      "priceAfter": "40.0",
+      "priceBefore": "20.0",
+      "image": "./images/pop5.webp"
+    },
+    {
+      "id": 6,
+      "product": "pop6",
+      "brand": "Nike",
+      "des": "Nike Reversible Tanktop Men",
+      "priceAfter": "37.95",
+      "priceBefore": "27.95",
+      "image": "./images/pop6.webp"
+    },
+    {
+      "id": "7",
+      "product": "pop7",
+      "brand": "Spalding",
+      "des": "Spalding Marble",
+      "priceAfter": "24.95",
+      "priceBefore": "17.0",
+      "image": "./images/pop7.webp"
+    }
+  ]
+}
