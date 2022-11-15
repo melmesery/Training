@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Training/static/css/main.53a79814.css",
-    "main.js": "/Training/static/js/main.f9e9629c.js",
+    "main.js": "/Training/static/js/main.2a052b6a.js",
     "static/media/img1.jpg": "/Training/static/media/img1.f7bf788b2d4e793e6cdc.jpg",
     "static/media/collection.jpg": "/Training/static/media/collection.fdeec06943d17a8a348b.jpg",
     "static/media/handball.jpg": "/Training/static/media/handball.62239e6a819f00a058f0.jpg",
@@ -43,10 +43,10 @@
     "static/media/slick.woff": "/Training/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Training/index.html",
     "main.53a79814.css.map": "/Training/static/css/main.53a79814.css.map",
-    "main.f9e9629c.js.map": "/Training/static/js/main.f9e9629c.js.map"
+    "main.2a052b6a.js.map": "/Training/static/js/main.2a052b6a.js.map"
   },
   "entrypoints": [
     "static/css/main.53a79814.css",
-    "static/js/main.f9e9629c.js"
+    "static/js/main.2a052b6a.js"
   ]
 }
