@@ -9,7 +9,7 @@ const ProductDetails = () => {
 
   useEffect(() => {
     axios
-      .get(`http://localhost:4000/items/${id}`)
+      .get(`https://my-json-server.typicode.com/melmesery/Sports-JSON/posts/${id}`)
       .then((res) => {
         setProducts(res.data);
       })
